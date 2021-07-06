@@ -12,6 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://enid0227.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:year/:month/:day/:title
 author: Ying
+google_analytics: G-QS6C5MNFPT
 
 # social config
 github_username: enid0227
