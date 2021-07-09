@@ -2,7 +2,8 @@
 layout: post
 title: "Learn AutoValue and Jackson"
 date: 2021-07-05 21:20:15 -0700
-categories: autovalue, jackson
+categories: guide
+tags: autovalue jackson
 ---
 
 ## What is in this post?

@@ -22,6 +22,7 @@ linkedin_username: yingshih
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 # keep comment for future reference
 #
 # Exclude from processing.
