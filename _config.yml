@@ -23,6 +23,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+
+# static
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
 # keep comment for future reference
 #
 # Exclude from processing.
